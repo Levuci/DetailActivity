@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DetailActivity</string>
+    <string name="telepon">TELEPON</string>
+    <string name="buka_browser">BUKA BROWSER</string>
+</resources>
